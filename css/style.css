@@ -5336,23 +5336,22 @@ body.active #mobile-nav {
 }
 
 .skill-part .section-head-2 {
-    margin-bottom: 54px;
+    margin-bottom: px;
 }
 
 .skill-box .section-head-2 {
     color: #fff;
-    margin-left: 74px;
+    padding:0px 0px 0px 40px;
 
 }
 .skill-box .section-head-2 ul{
     list-style-type:disc;
     color: #fff;
-    padding-left: 45px;
+    padding-left: 19px;
     padding-bottom: 20px;
+    line-height: 36px;
 }
-.skill-box .section-head-2 ul{
-    line-height: 26px;
-}
+
 .skill-box .section-head-2 h2::before {
     background: #fff;
     display:none;
