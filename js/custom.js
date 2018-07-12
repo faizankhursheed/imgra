@@ -315,7 +315,7 @@
 
         $this.gmap3({
             center: [lat, lng],
-            zoom: 16,
+            zoom: 6,
             scrollwheel: false,
             mapTypeId : google.maps.MapTypeId.ROADMAP,
             style: [{"featureType":"poi.business","elementType":"all","stylers":[{"hue":"#ff00ca"},{"saturation":"100"},{"lightness":"0"},{"gamma":"1"}]},{"featureType":"poi.business","elementType":"labels.icon","stylers":[{"hue":"#ff0000"}]}]
