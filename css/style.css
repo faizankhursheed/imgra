@@ -2653,9 +2653,9 @@
             .about_us h2{font-size: 24px;color:#fff;line-height: 33px;margin-bottom: 20px;}
             .about_us h6 {
                 font-size: 16px;
-    color: #fff;
-    line-height: 25px;
-    margin-bottom: 20px;
+                color: #fff;
+                line-height: 25px;
+                margin-bottom: 20px;
     
             }
             .about_us ul{
@@ -2686,17 +2686,17 @@
             }
 
             .pro-num {
-    font-size: 16px;
-    color: #3c3c3c;
-    line-height: 24px;
-    margin-bottom: 20px;
-    font-weight: 600;
+                font-size: 16px;
+                color: #3c3c3c;
+                line-height: 24px;
+                margin-bottom: 20px;
+                font-weight: 600;
             }
 
 
 /* --------------------------------------------------
             ==  About Part  ==
-            --------------------------------------------------- */
+--------------------------------------------------- */
 
             .about-part {
                 padding: 180px 0 180px;
