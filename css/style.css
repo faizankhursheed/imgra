@@ -470,7 +470,7 @@ img {
 }
 
 .section-head-3-1 h2 span {
-    color: #ffad18;
+    color: #0092C8;
 }
 
 .section-head-3-1 h2::after {
@@ -479,7 +479,7 @@ img {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    background: #ffad18;
+    background: #0092C8;
     width: 30px;
     height: 2px;
 }
@@ -5237,7 +5237,7 @@ body.active #mobile-nav {
 
 .person-3-comment i {
     font-size: 33px;
-    color: #ffad18;
+    color: #0092C8;
     text-transform: uppercase;
 }
 
@@ -5259,7 +5259,7 @@ body.active #mobile-nav {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    background: #ffad18;
+    background: #0092C8;
     width: 30px;
     height: 1px;
 }
@@ -5298,7 +5298,7 @@ body.active #mobile-nav {
 }
 
 .testimonial-3-part .swiper-pagination .swiper-pagination-bullet-active {
-    background: #ffad18;
+    background: #0092C8;
 }
 
 
@@ -7332,7 +7332,7 @@ body.active #mobile-nav {
     transform: translateX(-50%);
     width: 80px;
     height: 2px;
-    background: #ffad18;
+    background: #0092C8;
 }
 
 .breadcrumb-link {
@@ -7367,7 +7367,7 @@ body.active #mobile-nav {
 }
 
 .breadcrumb-link ul.flat-list li:last-child a {
-    color: #ffad18;
+    color: #0092C8;
     cursor: text;
 }
 
@@ -7376,7 +7376,7 @@ body.active #mobile-nav {
 }
 
 .wid-heading {
-    background: #ffad18;
+    background:#0092C8;
     padding: 25px 0px;
 }
 
@@ -8213,7 +8213,7 @@ body.active #mobile-nav {
 
 .prac-det-carousel .swiper-pagination-bullet-active {
     opacity: 1;
-    background: #ffad18;
+    background: #0092C8;
 }
 
 .prac-det-carousel .swiper-slide {
@@ -8278,7 +8278,7 @@ body.active #mobile-nav {
 
 .prac-det-inner blockquote i {
     font-size: 18px;
-    color: #ffad18;
+    color: #0092C8;
 }
 
 .per-social ul {
@@ -8302,7 +8302,7 @@ body.active #mobile-nav {
     top: 3px;
     left: -26px;
     font-family: FontAwesome;
-    color: #ffad18;
+    color: #0092C8;
 }
 
 .prac-inner-social .per-social {
@@ -8344,7 +8344,7 @@ body.active #mobile-nav {
 
 .about-author .author-info h5 {
     font-size: 16px;
-    color: #4f4f4f;
+    color: #0092C8;
     font-weight: 700;
 }
 
@@ -8372,7 +8372,7 @@ body.active #mobile-nav {
 }
 
 .consalt-form h6 span {
-    color: #ffad18;
+    color: #0092C8;
 }
 
 .consalt-form p {
@@ -8383,6 +8383,9 @@ body.active #mobile-nav {
 .consalt-form {
     text-align: center;
     padding-top: 60px;
+    position: relative;
+    right: 200px;
+    top: 61px;
 }
 
 .consalt-form form input {
@@ -8407,7 +8410,7 @@ body.active #mobile-nav {
 }
 
 .consalt-form input[type="submit"] {
-    background-color: #ffad18;
+    background-color: #0092C8;
     color: white;
     padding: 16px 40px;
     border: none;
@@ -8454,7 +8457,7 @@ body.active #mobile-nav {
 }
 
 .address-widget h6 i {
-    color: #ffad18;
+    color: #0092C8;
     margin-right: 10px;
     font-size: 20px;
 }
