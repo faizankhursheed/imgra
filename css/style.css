@@ -721,7 +721,7 @@ img {
 }
 
 .flat-list.social-icon li a:hover i {
-    color: #ffad18;
+    color:#0092C8;
 }
 
 .regular-list li {
@@ -930,7 +930,7 @@ img {
 }
 
 .bg-white .flat-list.social-icon li a i:hover {
-    color: #002e5b;
+    color: #0092C8 !important;
 }
 
 .navbar-brand {
