@@ -2659,10 +2659,14 @@
     
             }
             .about_us ul{
-              margin-left:10px;
-              padding-bottom: 10px;
               list-style-type:disc;
               color:#fff;
+              padding-left: 45px;
+              padding-bottom: 20px
+             
+            }
+            .about_us ul li{
+                 line-height:25px;
             }
             .about_us p {
                 font-size: 14px;
@@ -5338,8 +5342,18 @@
 
             .skill-box .section-head-2 {
                 color: #fff;
-            }
+                margin-left: 74px;
 
+            }
+            .skill-box .section-head-2 ul{
+            list-style-type:disc;
+            color: #fff;
+            padding-left: 45px;
+            padding-bottom: 20px;
+            }
+            .skill-box .section-head-2 ul{
+             line-height: 26px;   
+            }
             .skill-box .section-head-2 h2::before {
                 background: #fff;
                 display:none;
