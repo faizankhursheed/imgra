@@ -5202,7 +5202,7 @@ body.active #mobile-nav {
 }
 
 .testimonial-3-part {
-    background: url(../images/bg/testimonial-3-bg.jpg) no-repeat;
+    background: url(../images/img/Section-33.png) no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -7290,7 +7290,7 @@ body.active #mobile-nav {
             --------------------------------------------------- */
 
 .breadcrumb-part {
-    background: url(../images/bg/breadcrumb-bg.jpg) no-repeat;
+    background: url(../images/img/bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -7320,7 +7320,7 @@ body.active #mobile-nav {
 }
 
 .breadcrumb-title h1 {
-    color: #ffffff;
+    color: #000;
     position: relative;
     display: inline-block;
     padding-bottom: 17px;
@@ -7348,7 +7348,7 @@ body.active #mobile-nav {
 
 .breadcrumb-link ul.flat-list li a {
     padding: 0 7px;
-    color: #ffffff;
+    color: #000;
     font-size: 14px;
     text-transform: uppercase;
     font-weight: bold;
@@ -7366,7 +7366,7 @@ body.active #mobile-nav {
     top: 50%;
     left: 100%;
     transform: translate(50%, -50%);
-    color: #fff;
+    color: #000;
 }
 
 .breadcrumb-link ul.flat-list li:last-child a {
@@ -8429,7 +8429,7 @@ body.active #mobile-nav {
 .address-widget {
     padding-left: 30px;
     padding-top: 50px;
-    background: #efefef url(../images/bg/contact-infobg.jpg) no-repeat center;
+    background: #efefef url(../images/img/ottawa-04.jpg) no-repeat center;
     background-size: cover;
     color: #f1eeee;
     position: relative;
