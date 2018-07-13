@@ -7289,7 +7289,7 @@ body.active #mobile-nav {
             --------------------------------------------------- */
 
 .breadcrumb-part {
-    background: url(../images/img/bg.jpg) no-repeat;
+    background: url(../images/img/bgimg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -7315,11 +7315,11 @@ body.active #mobile-nav {
 }
 
 .breadcrumb-title {
-    padding: 185px 0 122px;
+    padding: 68px 0 2px;
 }
 
 .breadcrumb-title h1 {
-    color: #000;
+    color: #fff;
     position: relative;
     display: inline-block;
     padding-bottom: 17px;
@@ -7347,7 +7347,7 @@ body.active #mobile-nav {
 
 .breadcrumb-link ul.flat-list li a {
     padding: 0 7px;
-    color: #000;
+    color: #fff;
     font-size: 14px;
     text-transform: uppercase;
     font-weight: bold;
@@ -7365,7 +7365,7 @@ body.active #mobile-nav {
     top: 50%;
     left: 100%;
     transform: translate(50%, -50%);
-    color: #000;
+    color: #fff;
 }
 
 .breadcrumb-link ul.flat-list li:last-child a {
