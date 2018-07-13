@@ -8582,7 +8582,7 @@ body.active #mobile-nav {
 
 .con-bottom-inner h4 span {
     font-size: 30px;
-    color: #0092C8;
+    color: #ff0000;
 }
 
 .con-bottom-inner {
@@ -8662,7 +8662,7 @@ body.active #mobile-nav {
 }
 
 .con-page-form button {
-    background-color: #0092C8;
+    background-color: #ff0000;
     color: white;
     padding: 16px 40px;
     border: none;
