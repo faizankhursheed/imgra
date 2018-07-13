@@ -865,7 +865,7 @@ img {
 
 .header-part {
     background: #002e5b;
-    border-bottom: 2px solid #0092C8;
+    border-bottom: 2px solid #ff0000;
 }
 
 .header-icon a.btn-1 {
@@ -2606,7 +2606,7 @@ body.active #mobile-nav {
 
 
 .call_to_action {
-    background: #0092C8;
+    background: #ff0000;
 }
 
 .call_to_action .request-content {
