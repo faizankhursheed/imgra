@@ -864,7 +864,7 @@ img {
             --------------------------------------------- */
 
 .header-part {
-    background: #002e5b;
+    background: #300;
     border-bottom: 2px solid #ff0000;
 }
 
@@ -878,7 +878,7 @@ img {
 }
 
 .header-icon a.btn-1:hover {
-    color: #002e5b;
+    color: #300;
 }
 
 .header-icon ul {
@@ -6336,7 +6336,7 @@ body.active #mobile-nav {
 }
 
 .footer-widget {
-    background: #002e5b;
+    background: #300;
     color: #fff;
     padding: 100px 0 0;
 }
@@ -6400,9 +6400,9 @@ body.active #mobile-nav {
 
 .footer-icon-area {
     padding: 50px 0;
-    border-top: 1px solid #264d73;
+    border-top: 1px solid #ff0000;
     margin-top: 53px;
-    border-bottom: 1px solid #264d73;
+    border-bottom: 1px solid #ff0000;
 }
 .footer-icon {
     float: left;
@@ -6443,7 +6443,7 @@ body.active #mobile-nav {
 
 #subscribe-form input {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-    border: 1px solid #1c436a;
+    border: 1px solid #ff0000;
     color: #fff;
     float: left;
     font-size: 12px;
@@ -6463,7 +6463,7 @@ body.active #mobile-nav {
             --------------------------------------------------- */
 
 .footer-copyright {
-    background: #002e5b;
+    background: #300;
     padding: 40px 0;
     text-align: center;
 }
