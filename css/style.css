@@ -345,7 +345,7 @@ img {
     bottom: -12px;
     height: 84px;
     width:1px;
-    background: #0092C8;
+    background: #ff0000;
 }
 
 .section-head h2 span {
@@ -387,7 +387,7 @@ img {
     margin-top: -6px;
     padding-bottom: 25px;
     position: relative;
-    color: #0092C8;
+    color: #ff0000;
     text-transform: capitalize;
     letter-spacing: 2px;
     font-family: 'Montserrat', sans-serif;
@@ -470,7 +470,7 @@ img {
 }
 
 .section-head-3-1 h2 span {
-    color: #0092C8;
+    color: #ff0000;
 }
 
 .section-head-3-1 h2::after {
@@ -479,7 +479,7 @@ img {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    background: #0092C8;
+    background: #ff0000;
     width: 30px;
     height: 2px;
 }
@@ -644,7 +644,7 @@ img {
 }
 
 .brand-color {
-    color: #0092C8 !important;
+    color: #ff0000 !important;
 }
 
 .secondary-color {
@@ -721,7 +721,7 @@ img {
 }
 
 .flat-list.social-icon li a:hover i {
-    color:#0092C8;
+    color:#ff0000;
 }
 
 .regular-list li {
@@ -828,7 +828,7 @@ img {
     font-size: 20px;
     background: #fff;
     margin: 2px;
-    color: #0092C8;
+    color: #ff0000;
     text-align: center;
     border-radius: 50%;
 }
@@ -873,7 +873,7 @@ img {
     border: none;
     border-radius: 0;
     font-weight: 600;
-    background: #0092C8;
+    background:#ff0000;
     text-transform: uppercase;
 }
 
@@ -898,7 +898,7 @@ img {
 
 .header-item p i {
     margin-right: 6px;
-    color: #0092C8;
+    color: #ff0000;
 }
 
 .header-item p a {
@@ -906,7 +906,7 @@ img {
 }
 
 .header-item p a:hover {
-    color: #0092C8;
+    color: #ff0000;
 }
 
 .bg-white {
@@ -935,8 +935,8 @@ img {
 
 .navbar-brand {
     margin-right: 0px;
+    color:#ff0000;
 }
-
 
 /* ---------------------------------------------
             ==  Header  two  ==
@@ -1085,7 +1085,7 @@ img {
     content: '';
     left: 0;
     bottom: 0;
-    background: #0092C8;
+    background: #ff0000;
     height: 2px;
     width: 0;
     display: inline-block;
@@ -1098,7 +1098,7 @@ img {
 .nav-bg-white #nav-list > ul > li.active > a,
 .nav-bg-white #nav-list > ul > li:hover > a,
 .nav-bg-white #nav-list > ul > li > a.active {
-    color: #0092C8;
+    color:#ff0000;
 }
 
 .nav-bg-white #nav-list > ul > li.active > a::after,
@@ -1237,7 +1237,7 @@ img {
 }
 
 .dropdown-child-manu li a:hover {
-    color: #0092C8;
+    color: #ff0000;
 }
 
 .custom-dropdown-box:hover .dropdown-child-manu {
@@ -1281,7 +1281,7 @@ img {
 }
 
 .dropdown-child-manu li a.active {
-    color: #0092C8;
+    color: #ff0000;
 }
 
 /* --------------------------------------------------
@@ -1696,7 +1696,7 @@ body.active #mobile-nav {
     bottom: -24px;
     left: 7px;
     height: 3px;
-    background: #0092C8;
+    background: #ff0000;
     width: 250px;
 }
 
@@ -2621,11 +2621,11 @@ body.active #mobile-nav {
     letter-spacing: .25px;
     padding: 11px 22px;
     text-transform: uppercase;
-    color: #002e5b;
+    color: #ff0000;
     margin-top:6px;
 }
 .call_to_action .request-content a.btn-1:hover {
-    color: #0092C8;
+    color: #ff0000;
 }
 .call_to_action .request-content h4 {
     font-size: 30px;
@@ -5237,7 +5237,7 @@ body.active #mobile-nav {
 
 .person-3-comment i {
     font-size: 33px;
-    color: #0092C8;
+    color: #ff0000;
     text-transform: uppercase;
 }
 
@@ -5259,7 +5259,7 @@ body.active #mobile-nav {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    background: #0092C8;
+    background: #ff0000;
     width: 30px;
     height: 1px;
 }
@@ -5298,7 +5298,7 @@ body.active #mobile-nav {
 }
 
 .testimonial-3-part .swiper-pagination .swiper-pagination-bullet-active {
-    background: #0092C8;
+    background: #ff0000;
 }
 
 
@@ -5369,7 +5369,7 @@ body.active #mobile-nav {
 
 .skill-contact-form label {
     width: 100%;
-    background: #0092C8;
+    background: #ff0000;
     color: #fff;
     font-size: 22px;
     padding: 15px 0;
@@ -5395,8 +5395,8 @@ body.active #mobile-nav {
 }
 
 .skill-contact-form .btn-1 {
-    background: #0092C8;
-    border-color: #0092C8;
+    background: #ff0000;
+    border-color: #ff0000;
     border-radius: 0;
     padding: 15px 38px;
 }
@@ -6324,7 +6324,7 @@ body.active #mobile-nav {
             --------------------------------------------------- */
 
 .footer-part i.fa {
-    color: #0092C8;
+    color: #ff0000;
 }
 
 .footer-part p {
@@ -6369,6 +6369,7 @@ body.active #mobile-nav {
     -moz-transition: all 0.4s;
     -o-transition: all 0.4s;
     line-height: 14px;
+    color:#ff0000;
 }
 
 .footer-widget-item .footer-widget-link li a:hover i {
@@ -6477,7 +6478,7 @@ body.active #mobile-nav {
 }
 
 .footer-copyright p span {
-    color: #0092C8;
+    color: #ff0000;
 }
 
 
@@ -6507,12 +6508,12 @@ body.active #mobile-nav {
 }
 
 .footer-logo ol.flat-list li a i {
-    color: #0092C8;
+    color: #ff0000;
     font-size: 16px;
 }
 
 .footer-logo ol.flat-list li a:hover i {
-    color: #0092C8;
+    color: #ff0000;
 }
 
 
@@ -6754,7 +6755,7 @@ body.active #mobile-nav {
 }
 
 .footer-bg-light.footer-part i.fa {
-    color: #ffad18;
+    color: #ff0000;
 }
 .footer-bg-light.footer-part p {
     color: #5a5e5f;
@@ -7334,7 +7335,7 @@ body.active #mobile-nav {
     transform: translateX(-50%);
     width: 80px;
     height: 2px;
-    background: #0092C8;
+    background: #ff0000;
 }
 
 .breadcrumb-link {
@@ -7369,7 +7370,7 @@ body.active #mobile-nav {
 }
 
 .breadcrumb-link ul.flat-list li:last-child a {
-    color: #0092C8;
+    color: #ff0000;
     cursor: text;
 }
 
@@ -7378,7 +7379,7 @@ body.active #mobile-nav {
 }
 
 .wid-heading {
-    background:#0092C8;
+    background:#ff0000;
     padding: 25px 0px;
 }
 
@@ -8215,7 +8216,7 @@ body.active #mobile-nav {
 
 .prac-det-carousel .swiper-pagination-bullet-active {
     opacity: 1;
-    background: #0092C8;
+    background: #ff0000;
 }
 
 .prac-det-carousel .swiper-slide {
@@ -8280,7 +8281,7 @@ body.active #mobile-nav {
 
 .prac-det-inner blockquote i {
     font-size: 18px;
-    color: #0092C8;
+    color: #ff0000;
 }
 
 .per-social ul {
@@ -8304,7 +8305,7 @@ body.active #mobile-nav {
     top: 3px;
     left: -26px;
     font-family: FontAwesome;
-    color: #0092C8;
+    color: #ff0000;
 }
 
 .prac-inner-social .per-social {
@@ -8459,7 +8460,7 @@ body.active #mobile-nav {
 }
 
 .address-widget h6 i {
-    color: #0092C8;
+    color: #ff0000;
     margin-right: 10px;
     font-size: 20px;
 }
