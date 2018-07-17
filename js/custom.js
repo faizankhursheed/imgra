@@ -114,7 +114,7 @@
         if (scrltop > 400) {
             navigation.addClass('nav-scrl');
             // windo.scrollDown({
-            //    $('.nav-scrl').css('transform', 'translateY(0)'); 
+            //    $('.nav-scrl').css('transform', 'translateY(0)');
             // });
         } else {
             navigation.removeClass('nav-scrl');
@@ -137,7 +137,7 @@
         if (scrltop >750) {
             navigation.addClass('nav-scrl');
             // windo.scrollDown({
-            //    $('.nav-scrl').css('transform', 'translateY(0)'); 
+            //    $('.nav-scrl').css('transform', 'translateY(0)');
             // });
         } else {
             navigation.removeClass('nav-scrl');
