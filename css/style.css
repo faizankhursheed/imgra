@@ -6328,7 +6328,7 @@ body.active #mobile-nav {
             --------------------------------------------------- */
 
 .footer-part i.fa {
-    color: #e81414;
+    color: #90c05c;
 }
 
 .footer-part p {
@@ -6340,7 +6340,7 @@ body.active #mobile-nav {
 }
 
 .footer-widget {
-    background: #300;
+    background: #0b1005;
     color: #fff;
     padding: 100px 0 0;
 }
@@ -6373,7 +6373,7 @@ body.active #mobile-nav {
     -moz-transition: all 0.4s;
     -o-transition: all 0.4s;
     line-height: 14px;
-    color:#e81414;
+    color:#90c05c;
 }
 
 .footer-widget-item .footer-widget-link li a:hover i {
@@ -6404,9 +6404,9 @@ body.active #mobile-nav {
 
 .footer-icon-area {
     padding: 50px 0;
-    border-top: 1px solid #e81414;
+    border-top: 1px solid #90c05c;
     margin-top: 53px;
-    border-bottom: 1px solid #e81414;
+    border-bottom: 1px solid #90c05c;
 }
 .footer-icon {
     float: left;
@@ -6447,7 +6447,7 @@ body.active #mobile-nav {
 
 #subscribe-form input {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-    border: 1px solid #e81414;
+    border: 1px solid #90c05c;
     color: #fff;
     float: left;
     font-size: 12px;
@@ -6467,7 +6467,7 @@ body.active #mobile-nav {
             --------------------------------------------------- */
 
 .footer-copyright {
-    background: #300;
+    background: #0b1005;
     padding: 40px 0;
     text-align: center;
 }
@@ -6482,7 +6482,7 @@ body.active #mobile-nav {
 }
 
 .footer-copyright p span {
-    color: #e81414;
+    color: #90c05c;
 }
 
 
@@ -6512,12 +6512,12 @@ body.active #mobile-nav {
 }
 
 .footer-logo ol.flat-list li a i {
-    color: #ff0000;
+    color: #90c05c;
     font-size: 16px;
 }
 
 .footer-logo ol.flat-list li a:hover i {
-    color: #e81414;
+    color: #90c05c;
 }
 
 
@@ -6759,7 +6759,7 @@ body.active #mobile-nav {
 }
 
 .footer-bg-light.footer-part i.fa {
-    color: #e81414;
+    color: #90c05c;
 }
 .footer-bg-light.footer-part p {
     color: #5a5e5f;
